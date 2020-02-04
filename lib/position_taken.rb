@@ -3,7 +3,7 @@ require_relative '.../spec/position_taken_spec.rb'
 board = [" "," "," "," "," "," "," "," "," "]
 
 def position_taken
-if (move == board["X"] || movie board["O"])
-  puts "position taken"
-else true
+if (index = " ")
+  puts false
+else puts true
 end
