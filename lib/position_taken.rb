@@ -14,4 +14,4 @@ if Board[index] == " " || Board[O] == nill
 end
 
 
-position_taken?(board,[2])
+position_taken?
