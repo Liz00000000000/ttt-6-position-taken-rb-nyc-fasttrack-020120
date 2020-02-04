@@ -7,5 +7,6 @@ if (index == " ")
   puts "false"
 else puts "true"
 end
-end
+
+
 position_taken
