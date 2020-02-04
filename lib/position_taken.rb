@@ -8,3 +8,4 @@ if bored[index] != "X" || bored[index] != "O"
    false
  else true
  end
+end
