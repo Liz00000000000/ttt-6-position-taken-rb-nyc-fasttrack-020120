@@ -7,3 +7,4 @@ if index != "X" || index != "O"
    true
  else false
  end
+ end
