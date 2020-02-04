@@ -1,7 +1,7 @@
 # code your #position_taken? method here!
 #require_relative '.../spec/position_taken_spec.rb'
 
-def position_taken?(board, index)
+def position_taken?(Board, index)
 
 #board = [" "," "," "," "," "," "," "," "," "]
 #index = ["X","O"]
