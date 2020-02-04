@@ -4,7 +4,7 @@
 
 def position_taken
 if board.index == " "
-  puts "false"
- else puts "true"
+   false
+ else true
  end
-end 
+end
