@@ -5,6 +5,6 @@
 def position_taken
 if board.index == " "
   puts "false"
-else puts "true"
-end
- 
+ else puts "true"
+ end
+ßend 
