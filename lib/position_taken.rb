@@ -2,8 +2,8 @@
 #require_relative '.../spec/position_taken_spec.rb'
 #board = [" "," "," "," "," "," "," "," "," "]
 
-def position_taken (board, index)
-if board.index == " "
+def position_taken? (board, index)
+if index == " "
    "false"
  else "true"
  end
