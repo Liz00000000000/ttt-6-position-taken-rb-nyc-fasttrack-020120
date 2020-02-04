@@ -7,4 +7,4 @@ if board.index == " "
   puts "false"
  else puts "true"
  end
-ßend 
+end 
