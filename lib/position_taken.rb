@@ -3,10 +3,10 @@
 
 def position_taken?(board, index)
 
-board = [" "," "," "," "," "," "," "," "," "]
-index = ["X","O"]
+#board = [" "," "," "," "," "," "," "," "," "]
+#index = ["X","O"]
 
-if bored[index] == "X" || bored[O] == "O"
+if Board[index] == "X" || Board[O] == "O"
    false
  else
    true
