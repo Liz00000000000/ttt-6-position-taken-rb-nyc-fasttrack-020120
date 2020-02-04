@@ -9,4 +9,4 @@ if index == "X" || index == "O"
  end
  end
 
-position_taken(board = [0])
+position_taken(board[0])
