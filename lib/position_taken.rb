@@ -4,8 +4,8 @@
 index = ["X","O"]
 
 def position_taken?(board, index)
-if index == " "
-   false
- else true
+if index == "X" || index == "O"
+   true
+ else false
  end
 end
