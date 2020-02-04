@@ -4,8 +4,8 @@
 
 def position_taken
 if (index == " ")
-  puts false
-else puts true
+  puts "false"
+else puts "true"
 end
 end
 position_taken
