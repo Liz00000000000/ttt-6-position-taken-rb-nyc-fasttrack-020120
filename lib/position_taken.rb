@@ -3,7 +3,7 @@
 #board = [" "," "," "," "," "," "," "," "," "]
 
 def position_taken
-if index == " "
+if (index == " ")
   puts false
 else puts true
 end
