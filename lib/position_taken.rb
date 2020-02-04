@@ -5,7 +5,7 @@
 
 def position_taken?(board, index)
 if bored[index] != "X" || bored[index] != "O"
-   false
- else true
+   true
+ else false
  end
 end
