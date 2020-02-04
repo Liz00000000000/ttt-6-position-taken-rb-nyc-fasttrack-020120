@@ -12,4 +12,4 @@ if index == " "
 end
 
 
-position_taken?(board,[2])
+#position_taken?(board,[2])
