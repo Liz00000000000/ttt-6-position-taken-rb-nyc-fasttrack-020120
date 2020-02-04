@@ -6,12 +6,12 @@ def position_taken?(board, index)
 #board = [" "," "," "," "," "," "," "," "," "]
 #index = ["X","O"]
 
-if Board[index] == "X" || Board[O] == "O"
-   true
- else
+if Board[index] == " " || Board[O] == nill
    false
+ else
+   true
  end
 end
 
 
-#position_taken?(board,[2])
+position_taken?(board,[2])
