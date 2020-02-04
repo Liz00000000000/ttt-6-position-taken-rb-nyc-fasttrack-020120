@@ -4,7 +4,7 @@
 
 def position_taken? (board, index)
 if index == "X" || "O"
-   "true"
- else "false"
+   true
+ else false
  end
 end
