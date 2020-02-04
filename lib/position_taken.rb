@@ -8,5 +8,3 @@ if index == "X" || index == "O"
  else false
  end
  end
-
-position_taken(board[0])
