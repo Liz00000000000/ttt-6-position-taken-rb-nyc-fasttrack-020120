@@ -7,3 +7,6 @@ if (index == " ")
   puts false
 else puts true
 end
+
+
+position_taken
