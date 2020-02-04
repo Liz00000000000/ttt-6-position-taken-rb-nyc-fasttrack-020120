@@ -8,5 +8,3 @@ if bored[index] == "X" || bored[index] == "O"
    true
  else false
  end
-
-position_taken?
